@@ -12,9 +12,9 @@ int main ()
 
   for( i=1; i<=k;i++){
 
+    if(k)
+
 s=x*x;
 }
-if (k==0)
-s=1;
 printf("%f",s);
 }
